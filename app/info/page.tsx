@@ -93,7 +93,7 @@ export default function InfoPage() {
       <section className="grid gap-10 border-t border-black/10 py-14 md:grid-cols-12 md:py-20">
         <div className="md:col-span-7">
           <p className="max-w-4xl text-2xl font-bold leading-tight md:text-4xl">
-            My work is closely linked to my values and beliefs, standing in for inclusivity, tolerance, and progressive ideals.
+            My work is closely linadjhkasdhkajsdshjkang in for inclusivity, tolerance, and progressive ideals.
           </p>
         </div>
         <div className="md:col-span-4 md:col-start-9">
